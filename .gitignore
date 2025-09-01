@@ -29,5 +29,8 @@ src/assets/*
 !src/assets/fnaf-4-bg.jpg
 
 src/components/*
+
+!src/components/my-clock/
+
 !src/components/my-clock/DigitalClock.jsx
 
